@@ -1,0 +1,15 @@
+C:\Users\Junester\source\repos\EmployeeDatabase\EmployeeDatabase\bin\x64\Debug\EmployeeDatabase.exe.config
+C:\Users\Junester\source\repos\EmployeeDatabase\EmployeeDatabase\bin\x64\Debug\EmployeeDatabase.exe
+C:\Users\Junester\source\repos\EmployeeDatabase\EmployeeDatabase\bin\x64\Debug\EmployeeDatabase.pdb
+C:\Users\Junester\source\repos\EmployeeDatabase\EmployeeDatabase\obj\x64\Debug\Clinic Information System.csproj.AssemblyReference.cache
+C:\Users\Junester\source\repos\EmployeeDatabase\EmployeeDatabase\obj\x64\Debug\Clinic Information System.csproj.SuggestedBindingRedirects.cache
+C:\Users\Junester\source\repos\EmployeeDatabase\EmployeeDatabase\obj\x64\Debug\EmployeeDatabase.EmployeeRegistration.resources
+C:\Users\Junester\source\repos\EmployeeDatabase\EmployeeDatabase\obj\x64\Debug\EmployeeDatabase.ImmunizationEntry.resources
+C:\Users\Junester\source\repos\EmployeeDatabase\EmployeeDatabase\obj\x64\Debug\EmployeeDatabase.PatientRegistration.resources
+C:\Users\Junester\source\repos\EmployeeDatabase\EmployeeDatabase\obj\x64\Debug\EmployeeDatabase.ConsultationEntry.resources
+C:\Users\Junester\source\repos\EmployeeDatabase\EmployeeDatabase\obj\x64\Debug\EmployeeDatabase.Properties.Resources.resources
+C:\Users\Junester\source\repos\EmployeeDatabase\EmployeeDatabase\obj\x64\Debug\Clinic Information System.csproj.GenerateResource.cache
+C:\Users\Junester\source\repos\EmployeeDatabase\EmployeeDatabase\obj\x64\Debug\Clinic Information System.csproj.CoreCompileInputs.cache
+C:\Users\Junester\source\repos\EmployeeDatabase\EmployeeDatabase\obj\x64\Debug\EmployeeDatabase.exe
+C:\Users\Junester\source\repos\EmployeeDatabase\EmployeeDatabase\obj\x64\Debug\EmployeeDatabase.pdb
+C:\Users\Junester\source\repos\EmployeeDatabase\EmployeeDatabase\obj\x64\Debug\EmployeeDatabase.ClinicInformationSystem.resources

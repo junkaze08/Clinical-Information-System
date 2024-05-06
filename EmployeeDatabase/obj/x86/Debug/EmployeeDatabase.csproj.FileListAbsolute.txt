@@ -1,0 +1,11 @@
+C:\Users\Junester\source\repos\EmployeeDatabase\EmployeeDatabase\bin\x86\Debug\EmployeeDatabase.exe.config
+C:\Users\Junester\source\repos\EmployeeDatabase\EmployeeDatabase\bin\x86\Debug\EmployeeDatabase.exe
+C:\Users\Junester\source\repos\EmployeeDatabase\EmployeeDatabase\bin\x86\Debug\EmployeeDatabase.pdb
+C:\Users\Junester\source\repos\EmployeeDatabase\EmployeeDatabase\obj\x86\Debug\EmployeeDatabase.csproj.AssemblyReference.cache
+C:\Users\Junester\source\repos\EmployeeDatabase\EmployeeDatabase\obj\x86\Debug\EmployeeDatabase.csproj.SuggestedBindingRedirects.cache
+C:\Users\Junester\source\repos\EmployeeDatabase\EmployeeDatabase\obj\x86\Debug\EmployeeDatabase.Form1.resources
+C:\Users\Junester\source\repos\EmployeeDatabase\EmployeeDatabase\obj\x86\Debug\EmployeeDatabase.Properties.Resources.resources
+C:\Users\Junester\source\repos\EmployeeDatabase\EmployeeDatabase\obj\x86\Debug\EmployeeDatabase.csproj.GenerateResource.cache
+C:\Users\Junester\source\repos\EmployeeDatabase\EmployeeDatabase\obj\x86\Debug\EmployeeDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Junester\source\repos\EmployeeDatabase\EmployeeDatabase\obj\x86\Debug\EmployeeDatabase.exe
+C:\Users\Junester\source\repos\EmployeeDatabase\EmployeeDatabase\obj\x86\Debug\EmployeeDatabase.pdb
